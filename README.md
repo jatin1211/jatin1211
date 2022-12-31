@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jatin1211](https://github.com/jatin1211)
 
-- 💬 Ask me about **Javascript, SQL, NoSQL, OOPS, MERN Stack**
+- 💬 Ask me about **Javascript, SQL, React, MongoDB, OOPS, MERN Stack**
 
 - 📫 How to reach me **sainijatin247@gmail.com**
 
