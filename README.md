@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sainijatin247@gmail.com**
 
-- 📄 Know about my experiences [https://jatin1211.github.io/Jatin-React-Portfolio/](https://jatin1211.github.io/Jatin-React-Portfolio/)
+- 📄 Know about my experiences [https://jatin1211.github.io/React-Portfolio/](https://jatin1211.github.io/React-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
