@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Starship [MERN STACK]**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** , **Redux**, **Stripe**
 
 - 🤝 I’m looking for help with **GitHub Open source projects**
 
