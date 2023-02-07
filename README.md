@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin1211&label=Profile%20views&color=0e75b6&style=flat" alt="jatin1211" /> </p>
 
-- 🔭 I’m currently working on **Starship [MERN STACK]**
+- 🔭 I’m currently working on **ChatGPT API**
 
 - 🌱 I’m currently learning **React** , **Redux**, **Stripe**
 
