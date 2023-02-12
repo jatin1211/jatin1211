@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ChatGPT API**
 
-- 🌱 I’m currently learning **React** , **Redux**, **Stripe**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **GitHub Open source projects**
 
